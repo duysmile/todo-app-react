@@ -1,0 +1,12 @@
+body{
+    padding: 50px;
+    background-color: dodgerblue;
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+}
+#container{
+    display:flex;
+    justify-content: center;
+}
